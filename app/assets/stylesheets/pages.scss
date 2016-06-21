@@ -53,7 +53,7 @@ ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 
 @media screen and (max-width: 640px){
 	.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
-	.header-section {float: left; width: 100%; height: auto; margin: 25px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
+	.header-section {float: left; width: 100%; height: auto; margin: 50px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
 	.main-section {float: left; width: 100%; height: auto; margin: 15px 0; padding: 0; font-family: "purista-web",sans-serif;}
 	.main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif;}
 
@@ -71,5 +71,24 @@ ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 	ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 
 
+	.socialbox {float: left; width: 100%; text-align: center; margin: 15px 0;}
+	.socialbox a i {font-size: 24px; color: #fff; padding: 0 10px;}
+	.socialbox a i:hover {font-size: 24px; color: #000; padding: 0 10px;}
+
+	.header-tab {position: absolute; right: 5%; top: 5px; margin: 0 0 25px 0; float: left; font-family: "purista-web",sans-serif; font-size: 16px; line-height: 16px; color: #fff;}
+	.header-tab ul {list-style-type: none;}
+	.header-tab ul li {float: left; margin: 0 5px;}
+	.header-tab ul li a {font-family: "purista-web",sans-serif; font-size: 16px; line-height: 16x; color: #fff; text-decoration: none; padding: 5px 8px;}
+	.header-tab ul li a:hover {font-family: "purista-web",sans-serif; font-size: 16px; line-height: 16px; color: #fff; text-decoration: none; background-color: #000; padding: 5px 8px;}
+
+	.bd-section {float: left; width: 90%; padding: 0 5%;}
+	.bd-section p {float: left; width: 100%; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif; font-size: 16px; line-height: 18px; color: #fff;}
+
+	.bd-section h1 {float: left; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif; font-size: 24px; line-height: 24px; color: #000;}
+	.bd-section ul {float: left; list-style-type: none; width: 100%; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif; font-size: 16px; line-height: 18px; color: #fff;}
+	.bd-section ul li {float: left; width: 100%; margin: 5px 0; padding: 0; font-family: "purista-web",sans-serif; font-size: 16px; line-height: 18px; color: #fff;}
+	.bd-section ul li a i {font-size: 24px; color: #fff; padding: 0 10px;}
+	.bd-section ul li a i:hover {font-size: 24px; color: #000; padding: 0 10px;}
+	.bd-section a {color: #fff;}
 
 }
