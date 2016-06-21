@@ -3,7 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 body {margin: 0; padding: 0;}
-.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
+.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0 0 50px 0; font-size: 0; line-height: 0;}
 .header-section {float: left; width: 100%; height: auto; margin: 75px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
 .main-section {float: left; width: 100%; height: auto; margin: 25px 0; padding: 0; font-family: "purista-web",sans-serif;}
 .main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif;}
@@ -49,6 +49,7 @@ ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 .bd-section ul li {float: left; width: 100%; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif; font-size: 18px; line-height: 20px; color: #fff;}
 .bd-section ul li a i {font-size: 36px; color: #fff; padding: 0 15px;}
 .bd-section ul li a i:hover {font-size: 36px; color: #000; padding: 0 15px;}
+.bd-section a {color: #fff;}
 
 @media screen and (max-width: 640px){
 	.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
